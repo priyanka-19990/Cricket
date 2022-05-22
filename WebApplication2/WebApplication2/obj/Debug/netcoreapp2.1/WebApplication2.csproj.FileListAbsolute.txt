@@ -1,0 +1,13 @@
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+c:\users\priyanka\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
